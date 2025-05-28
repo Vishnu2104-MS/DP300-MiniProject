@@ -1,4 +1,3 @@
-# DP300-MiniProject
 # DP-300 Mini Project: Azure SQL Database Setup
 
 ## 📌 Step 1: Set Up Azure SQL Database
@@ -19,4 +18,3 @@ This step involves creating an Azure SQL Database for testing and monitoring.
 
 ### ✅ Outcome
 - Successfully deployed Azure SQL Database `DP300SampleDB` with basic configuration.
-
